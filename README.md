@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @szybec31
+- 👀 I’m interested in Design Websites and Networks
+- 🌱 I’m currently learning ML
